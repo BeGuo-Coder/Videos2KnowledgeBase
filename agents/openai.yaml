@@ -1,0 +1,5 @@
+interface:
+  display_name: "Social Video Transcriber"
+  short_description: "Parse social video links, transcribe with Bailian, and write Markdown reports."
+  icon: "🎬"
+  primary_color: "#7C3AED"

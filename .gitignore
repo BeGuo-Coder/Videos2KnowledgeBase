@@ -1,0 +1,35 @@
+# Secrets / local config
+.env
+.env.local
+.env.*.local
+
+# Reports & data output (these are generated artifacts)
+reports/
+*.parser.json
+*.transcript.json
+*.transcript.txt
+*.ytdlp.json
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+.venv/
+venv/
+.Python
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editors / IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# Obsidian workspace files (in case skill is dropped into a vault)
+.obsidian/workspace*
